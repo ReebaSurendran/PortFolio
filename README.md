@@ -20,7 +20,9 @@ The purpose of this portfolio website is to provide a comprehensive overview of 
 - **JavaScript**: For interactive elements and functionality.
 - **GitHub Pages**: For hosting the website.
 
-## Contact
+## Experience
+- Detailed experience and upskilled technologies and tools are explained.
+
 
 Feel free to reach out to me via reebasurendran01@gmail.com or connect with me on LinkedIn - https://www.linkedin.com/in/reeba-surendran.
 
