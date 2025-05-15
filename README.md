@@ -21,7 +21,7 @@ The purpose of this portfolio website is to provide a comprehensive overview of 
 - **GitHub Pages**: For hosting the website.
 
 ## Experience
-- Detailed experience and upskilled technologies and tools are explained.
+- Detailed experience and upskilled technologies and tools are showcased.
 
 
 Feel free to reach out to me via reebasurendran01@gmail.com or connect with me on LinkedIn - https://www.linkedin.com/in/reeba-surendran.
